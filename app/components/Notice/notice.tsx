@@ -10,12 +10,12 @@ interface Notice{
     link:string;
 }
 
-const NoticeList: Notice[]=[
-    {
-        title: "Staff List",
-        link: "/Pdf/teachers.pdf"  //put the link from imgbb
-    },
-]
+const NoticeList: Notice[] = [
+  {
+    title: "Annual Result '2024 ",
+    link: "/Pdf/Annual Result '2024.pdf", //put the link from imgbb
+  },
+];
 const Notice = () => {
     return (
         <div className='relative ' id="notice-section">
