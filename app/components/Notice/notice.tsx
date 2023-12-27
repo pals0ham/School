@@ -12,7 +12,7 @@ interface Notice{
 
 const NoticeList: Notice[] = [
   {
-    title: "Annual Result '2024 ",
+    title: "Annual Result '2023 ",
     link: "/Pdf/Annual Result '2024.pdf", //put the link from imgbb
   },
 ];
